@@ -18,7 +18,12 @@
         "composer/installers": "^1.9",
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
-        "drupal/core-recommended": "^9.3"
+        "drupal/core-recommended": "^9.3",
+        "drupal/encrypt": "3.0",
+        "drupal/ga_login": "1.x-dev@dev",
+        "drupal/key": "1.15",
+        "drupal/real_aes": "2.4",
+        "drupal/tfa": "1.x-dev@dev"
     },
     "conflict": {
         "drupal/drupal": "*"
